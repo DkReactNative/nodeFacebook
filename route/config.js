@@ -1,4 +1,6 @@
-module.exports = {	
-	 accessToken :`EAAHfCVMUalwBAE6zyIGVjgLjCXBfslDidvI9GVw6tW5d0QLYuZBEIwIISRsg1cnDqOv1zESqITQRzBqqEvbN6baNeqRAMtOe6ejVjo6LHhoVkFrHP5wx7AsvTjKYwPn9MxT0xIxxW8ZAZBjxYFyFajVZCvEp3aclQ0zVljsssOJWjxyCnS9Up8zHGRcsav4ZD`,
-      accountId : 526706118257244
+module.exports = {
+    accessToken: `EAAHfCVMUalwBAJKeUEJJRSCYNaKaVP6wQcyZCGZCZCbdQPrimPXfnVAAQ9E8x0peRYzIZCZAHOvvkH0j9BISVEtZCD2ocnlzXOtCAadV04FQORhIIZBkQneHTwVTIngZCx2bauOCzJqpcYlpnvatHobAlOt14HwmTRUaISfj70nnMufTaGeXG90Dvs7uZA9g4NlzBuSQnAhLhLANzZBBtK15A5RjIANTi8SjfJPmQXnZB89bgZDZD`,
+    accountId: 'act_640702540102995',
+    appSecret: 'bebf81a4e2845150dc7a7dc36753e8c5',
+    appId: '526706118257246'
 }
